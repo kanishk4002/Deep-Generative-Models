@@ -51,8 +51,16 @@ All the documentation related to the assignments and projects, including detaile
 DGM/
 │
 ├── Assignment1_DCGAN/
-│   ├── Assignment1_DCGAN.ipynb  # Jupyter Notebook with code
-│   └── Assignment1_DCGAN.pdf    # PDF with documentation
+│ ├── Assignment1_DCGAN.ipynb # Jupyter Notebook with code
+│ └── Assignment1_DCGAN.pdf # PDF with documentation
 │
-└── README.md                    # Project overview and assignment details
+├── Assignment2_VAEs/
+│ ├── Assign2.ipynb # Jupyter Notebook with code
+│ ├── assign2.pdf # PDF with documentation
+│
+├── Assignment3_DiffusionModels/
+│ ├── Assignment3_KanishkSharma(22B1049).ipynb # Jupyter Notebook with code
+│ ├── assignment3-kanishksharma-22b1049.pdf # PDF with documentation
+│
+
 
